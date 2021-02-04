@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Space, Science Fiction, and Beyond</title>
+  <title>My Blog</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
@@ -22,7 +22,7 @@
           <span>Cherie Reich</span>
         </div>
         <p class="post-date">February 1, 2021</p>
-        <h3 class"post-title">Searching for the Muse</h3>
+        <h3 class="post-title">Searching for the Muse</h3>
         <div class="post-content">
           <p>I have a confession to make. I haven't written fiction since early last year. It was a whomping 900+ words.</p>
           <p>Has my muse abandoned me? I have more stories to tell, but I need energy to write them. Will I ever have the energy again to write again? I just don't know. I'd hate to keep these characters in my head silent. They would hate it too.</p>
