@@ -7,7 +7,7 @@
 <body>
   <div id="header">
     <div class="container">
-      <a id="header-title" href="index.html">My Blog</a>
+      <a id="header-title" href="index.md">My Blog</a>
       <ul id="header-nav">
         <li><a href="about.html">About</a></li>
         <li><a href="mailto:cherie.reich@gmail.com">Contact</a></li>
